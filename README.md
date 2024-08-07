@@ -5,31 +5,28 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/maximobautistagarcia/" target="_blank">
+  <a href="www.linkedin.com/in/eduardo-omonte" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:maximogarciadev@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=GarciaMaximoB.GarciaMaximoB&left_text=Visitas%20al%20perfil"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Edu4rd09.Edu4rd09&left_text=Visitas%20al%20perfil"  />
 </div>
 
 ###
 
-<h1 align="center">¡Hola mundo! 👋🏽</h1>
+<h1 align="center">¡Hola ! 👋🏽</h1>
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mi</h3>
+<h3 align="left">Sobre mi</h3>
 
 ###
 
-<p align="left">Soy Maximo, de Argentina 🇦🇷<br><br>- 🔭 Estoy trabajando como desarrollador freelance.<br>- 📚Estudio tecnicatura en informatica.<br>- ⚡ En mi tiempo libre disfruto mucho de ir al gimnasio y aprender cosas nuevas en el mundo IT!</p>
+<p align="left">Soy Eduardo, de Argentina 🇦🇷<br>- 📚Estudio tecnicatura en informatica.<br>- ⚡ En mi tiempo libre hago dibujos!</p>
 
 ###
 
