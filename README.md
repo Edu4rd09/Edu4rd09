@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">¡Hola! 👋</h1>
+<h1 align="center">¡Hola! 👋 </h1>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Soy Eduardo, de Argentina 🇦🇷 <br>- 📚Estudio tecnicatura en informatica.<br>- ⚡ En mi tiempo libre hago dibujos!</p>
+<p align="left"> Soy Eduardo, de Argentina 🇦🇷 <br>- 📚Estudio tecnicatura en informatica.<br>- ⚡ En mi tiempo libre hago dibujos!</p>
 
 ###
 
